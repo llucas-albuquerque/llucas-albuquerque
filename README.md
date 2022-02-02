@@ -37,3 +37,9 @@
  
 
 Aprendiz de tecnologia, desde programação, ciência de dados, e segurança da informação!
+
+ 
+- Programando intensivamente em Ruby on Rails🔸 e React💠;
+- Estudando sistematicamente para criação de portfólio em Ciência de Dados📈; 
+- Atuando como pesquisador em uma comunidade de Segurança da Informação, na atuação em Bug Bounty/Pentest📚!
+- Trabalhando como estagiário de TI💻, faço design gráfico🖨️, e caço falhas na web🔎nas minhas horas vagas⏳; 
