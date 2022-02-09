@@ -11,7 +11,8 @@
 
  
 
-![Lucas Albuquerque GitHub stats](https://github-readme-stats.vercel.app/api?username=llucas-albuquerque&show_icons=true&theme=dark)
+<img height="140cm" src="https://github-readme-stats.vercel.app/api?username=llucas-albuquerque&show_icons=true&theme=dark">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucas-albuquerque&layout=compact&langs_count=10&theme=dark"/>
 
 ### Tecnologias que utilizo no dia a dia!💡
 
