@@ -44,6 +44,9 @@
 <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />   
 </div><br/>
 
+  
+ Meta atual de trabalho:
+<img align="center" alt="iFood" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />  
  
 
 Aprendiz de tecnologia, desde programação, ciência de dados, e segurança da informação!
