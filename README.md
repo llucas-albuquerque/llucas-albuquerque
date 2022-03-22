@@ -45,7 +45,7 @@
 </div><br/>
 
   
- ## Meta atual de trabalho: Back-End Specialist no <img align="center" alt="iFood" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />  
+ ### Meta atual de trabalho: Back-End Specialist no <img align="center" alt="iFood" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />  
  
  
 
