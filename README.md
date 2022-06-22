@@ -50,8 +50,9 @@
 Aprendiz de tecnologia, desde programação, ciência de dados, e segurança da informação!
 
  
-- Programando intensivamente em Java☕, Ruby on Rails🔸 e React💠;
-- Estudando sistematicamente para criação de portfólio em Ciência de Dados📈; 
+
+- Estudando sistematicamente para criação de portfólio em Ciência de Dados📈;
+- Programando intensivamente em Python🐍, Java☕, Ruby on Rails🔸 e React💠;  
 - Desenvolvendo estudos e pesquisas em Biotecnologia🔬, Redes Neurais💡, e Aquisição de Biossinais;🔎
 - Atuando como pesquisador em uma comunidade de Segurança da Informação, na atuação em Bug Bounty/Pentest📚!
 - Trabalhando como estagiário de TI💻, empreendendo com design gráfico🖨️, e caçando falhas na web🙇nas minhas horas vagas⏳; 
