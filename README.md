@@ -47,7 +47,7 @@
   
  
 
-Aprendiz de tecnologia, desde programação, ciência de dados, e segurança da informação!
+Aprendiz de tecnologia, desde ciência de dados, programação e segurança da informação!
 
  
 
