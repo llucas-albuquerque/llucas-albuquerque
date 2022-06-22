@@ -54,3 +54,5 @@ Aprendiz de tecnologia, desde programação, ciência de dados, e segurança da 
 - Estudando sistematicamente para criação de portfólio em Ciência de Dados📈; 
 - Atuando como pesquisador em uma comunidade de Segurança da Informação, na atuação em Bug Bounty/Pentest📚!
 - Trabalhando como estagiário de TI💻, empreendendo com design gráfico🖨️, e caçando falhas na web🔎nas minhas horas vagas⏳; 
+- Desenvolvendo estudos e pesquisas em Biotecnologia🔬, Redes Neurais💡, e Aquisição de Biossinais;🔎
+
