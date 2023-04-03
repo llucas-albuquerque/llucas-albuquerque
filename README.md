@@ -57,6 +57,7 @@ Aprendiz de tecnologia, desde ciência de dados, programação e segurança da i
 - Atuando como pesquisador em uma comunidade de Segurança da Informação, na atuação em Bug Bounty/Pentest📚!
 - Trabalhando como estagiário de TI💻, empreendendo com design gráfico🖨️, e caçando falhas na web🙇nas minhas horas vagas⏳; 
   
-  Caso queria mais informações sobre mim, acesse o meu Portfólio de projetos em: https://llucas-albuquerque.github.io/portfolio_projetos/
+  Caso queria mais informações sobre mim, acesse o meu Portfólio de projetos em: 
+  https://llucas-albuquerque.github.io/portfolio_projetos/
 
 
