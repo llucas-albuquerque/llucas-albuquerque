@@ -50,7 +50,7 @@
 Perito Judicial/Extrajudicial, e aprendiz de tecnologia, desde ciência de dados, programação e segurança da informação!
 
  
-- Elaborando laudos periciais técnicos judiciais e extrajudiciais, como Auxiliar da Justiça🧑‍⚖️;  
+- Elaborando laudos periciais técnicos judiciais e extrajudiciais, como Auxiliar da Justiça⚖️;  
 - Estudando sistematicamente para criação de portfólio em Ciência de Dados📈;
 - Programando intensivamente em Python🐍, Java☕, Ruby on Rails🔸 e React💠;  
 - Desenvolvendo estudos e pesquisas em Biotecnologia🔬, Redes Neurais💡, e Aquisição de Biossinais;🔎
