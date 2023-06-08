@@ -10,12 +10,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://https://twitter.com/albuquerque_lk)
 
  
-<div align="left">
-  <a href="https://github.com/llucas-albuquerque">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=llucas-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucas-albuquerque&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
 ### Tecnologias que utilizo no dia a dia!💡
 
 <div style="display: inline_block"><br/>
