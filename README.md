@@ -27,8 +27,9 @@
 Sou Cientista de Dados Júnior, graduando em Cibersegurança, Ciências Contábeis, Economia, e também faço formações na área de Dados, Power BI e Mercado Financeiro.
 
 - Criando projetos para portfólio em Ciência de Dados📈;
-- Programando intensivamente para Análise e Ciência de Dados em Python🐍 
 - Trabalhando como Consultor de TI, e Business Inteligence Consultant💻
+- Programando intensivamente para Análise e Ciência de Dados em Python🐍 
+
 
 Nas horas vagas:
 - Elaborando laudos periciais técnicos judiciais e extrajudiciais, como Auxiliar da Justiça⚖️;
