@@ -11,16 +11,16 @@ Aqui estão minhas mídias para contato!
 ### Tecnologias que utilizo no dia a dia!💡
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="Excel" src="https://img.shields.io/badge/Excel-239120?style=for-the-badge&logo=excel&logoColor=white" />
 <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F7DF1E?style=for-the-badge&logo=power-bi&logoColor=white" />
-<img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img align="center" alt="Excel" src="https://img.shields.io/badge/Excel-239120?style=for-the-badge&logo=excel&logoColor=white" />
 <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" />
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
 
 
 Sou Cientista de Dados Júnior, graduando em Cibersegurança, Ciências Contábeis, Economia, e também faço formações na área de Dados, Power BI e Mercado Financeiro.
