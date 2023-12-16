@@ -38,6 +38,6 @@ Nas horas vagas...
 - Atuando como pesquisador em uma comunidade de Segurança da Informação, na atuação em Bug Bounty/Pentest📚!
   
   Caso queria mais informações sobre mim, acesse o meu Portfólio Profissional: <br/>
-  Em atualização...
+ (https://llucas-albuquerque.github.io/portfolio_profissional/)
 
 
