@@ -23,6 +23,8 @@ Aqui estão minhas mídias para contato!
 
 
 
+
+
 Sou Cientista de Dados Júnior, graduando em Cibersegurança, Ciências Contábeis, Economia, e também faço formações na área de Dados, Power BI e Mercado Financeiro.
 
 - Criando projetos para portfólio em Ciência de Dados📈;
