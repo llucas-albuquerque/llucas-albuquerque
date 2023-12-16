@@ -26,11 +26,13 @@ Aqui estão minhas mídias para contato!
 Sou Cientista de Dados Júnior, graduando em Cibersegurança, Ciências Contábeis, Economia, e também faço formações na área de Dados, Power BI e Mercado Financeiro.
 
 - Criando projetos para portfólio em Ciência de Dados📈;
-- Programando intensivamente em Python🐍, Java☕, Ruby on Rails🔸 e React💠; 
-- Elaborando laudos periciais técnicos judiciais e extrajudiciais, como Auxiliar da Justiça⚖️;   
+- Programando intensivamente para Análise e Ciência de Dados em Python🐍 
+- Trabalhando como Consultor de TI, e Business Inteligence Consultant💻
+
+Nas horas vagas:
+- Elaborando laudos periciais técnicos judiciais e extrajudiciais, como Auxiliar da Justiça⚖️;
 - Desenvolvendo estudos e pesquisas em Biotecnologia🔬, Redes Neurais💡, e Aquisição de Biossinais;🔎
 - Atuando como pesquisador em uma comunidade de Segurança da Informação, na atuação em Bug Bounty/Pentest📚!
-- Trabalhando como estagiário de TI💻, empreendendo com design gráfico🖨️, e caçando falhas na web🙇nas minhas horas vagas⏳; 
   
   Caso queria mais informações sobre mim, acesse o meu Portfólio Profissional: <br/>
   https://llucas-albuquerque.github.io/portfolio_profissional/
