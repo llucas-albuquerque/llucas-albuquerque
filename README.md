@@ -1,5 +1,4 @@
 ### Olá Mundo🌎, eu sou o Lucas Albuquerque!👨‍💻
-Aqui estão minhas mídias para contato!
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasalbuquerque.ao@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_lucasalbuquerque/)
@@ -21,7 +20,9 @@ Aqui estão minhas mídias para contato!
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/>
 
-### Tecnologias que utilizo no dia a dia!💡
+
+
+### Sobre mim!
 
 Sou Cientista de Dados Júnior, graduando em Cibersegurança, Ciências Contábeis, Economia, e também faço formações na área de Dados, Power BI e Mercado Financeiro.
 
