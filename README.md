@@ -11,7 +11,7 @@ Aqui estão minhas mídias para contato!
 ### Tecnologias que utilizo no dia a dia!💡
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-CC0000?style=for-the-badge&logo=power-bi&logoColor=White" />
+<img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-CC0000?style=for-the-badge&logo=power-bi&logoColor=white" />
 <img align="center" alt="Ruby on Rais" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
